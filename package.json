@@ -1,0 +1,8 @@
+{
+  "name": "tempo-workout-timer",
+  "private": true,
+  "scripts": {
+    "test": "node tests/structure.test.js"
+  },
+  "devDependencies": {}
+}
