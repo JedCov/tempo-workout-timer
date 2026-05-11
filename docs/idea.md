@@ -9,7 +9,7 @@ A lightweight, high-performance browser-based workout timer with voice coaching 
 - Mobile-friendly design
 
 ## Getting Started
-Open `index.html` in your browser.
+Open `src/index.html` in your browser from the repo root.
 
 ## Next Steps
-Replace `index.html` with the full application code and expand features.
+Keep improving the app in `src/` and track larger plans in `docs/roadmap.md`.
